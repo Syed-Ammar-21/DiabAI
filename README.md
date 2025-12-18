@@ -91,4 +91,8 @@ Invalid zero values were treated as missing and handled during preprocessing.
 
 ### Setup
 ```bash
+git clone https://github.com/Syed-Ammar-21/DiabAI.git
+cd DiabAI
+pip install -r requirements.txt
+streamlit run main.py
 
