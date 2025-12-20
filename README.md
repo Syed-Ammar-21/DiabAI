@@ -3,7 +3,7 @@ A machine learning–based web application that predicts diabetes risk using bas
 Built with Python and Streamlit, the app also explains predictions using SHAP and permutation importance.
 
 > This project is for educational purposes only and is not a medical diagnostic tool.
-![Home](./Home.png)
+![Home](./Home.jpg)
 
 ---
 
