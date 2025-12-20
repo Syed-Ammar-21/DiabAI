@@ -3,6 +3,7 @@ A machine learning–based web application that predicts diabetes risk using bas
 Built with Python and Streamlit, the app also explains predictions using SHAP and permutation importance.
 
 > This project is for educational purposes only and is not a medical diagnostic tool.
+![Home](./Home.png)
 
 ---
 
@@ -13,6 +14,11 @@ This application allows users to enter health data and receive:
 - Explanation of feature contributions
 
 The model prioritizes Recall to reduce missed positive cases, which is important in healthcare-related problems.
+
+---
+
+## 📁 Project Structure
+![Folder Structure](./folder-structure.png)
 
 ---
 
